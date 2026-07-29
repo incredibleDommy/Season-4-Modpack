@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " LW",
+        " WW"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "W": {
+            "item": "fsang:gold_titanium_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:gauntlet_conquest_off",
+        "count": 1
+    }
+}

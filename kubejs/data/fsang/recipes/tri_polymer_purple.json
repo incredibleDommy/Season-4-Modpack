@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purple_wool"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:purple_wool"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_purple",
+        "count": 2
+    }
+}

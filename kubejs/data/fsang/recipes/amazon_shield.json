@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:nth_template"
+    },
+    "base": {
+        "item": "minecraft:shield"
+    },
+    "addition": {
+        "item": "fsang:nth_ingot"
+    },
+    "result": {
+        "item": "fsang:amazon_shield"
+    }
+}

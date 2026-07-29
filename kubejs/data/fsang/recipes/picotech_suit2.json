@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:picotech_chestplate"
+        },
+        {
+            "item": "fsang:titanium_circuit"
+        },
+        {
+            "item": "fsang:titanium_circuit"
+        },
+        {
+            "item": "fsang:web_shooters3"
+        }
+    ],
+    "result": {
+        "item": "fsang:picotech_chestplate2",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DCD",
+        "IEI",
+        "I I"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "D": {
+            "item": "fsang:golden_circuit"
+        },
+        "E": {
+            "item": "fsang:diamond_circuit"
+        },
+        "C": {
+            "item": "palladium:quartz_flux_capacitor"
+        }
+    },
+    "result": {
+        "item": "fsang:falcon_wings",
+        "count": 1
+    }
+}

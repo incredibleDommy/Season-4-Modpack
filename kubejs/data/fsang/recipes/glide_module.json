@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:tri_polymer_black3"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        },
+        {
+            "item": "fsang:golden_circuit"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:glide_module",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "item": "fsang:iron_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:blueprint_book",
+        "count": 1
+        
+    }
+}

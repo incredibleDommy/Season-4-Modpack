@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "II ",
+        "DD ",
+        "GG "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "fsang:titanium_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:titanium_circuit",
+        "count": 1
+    }
+}

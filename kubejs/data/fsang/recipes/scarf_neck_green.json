@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "  R",
+        "   "
+    ],
+    "key": {
+        "R": {
+            "item": "fsang:tri_polymer_green"
+        }
+    },
+    "result": {
+        "item": "fsang:scarf_neck_green",
+        "count": 1
+    }
+}

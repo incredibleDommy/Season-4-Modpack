@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:tri_polymer_purple"
+        },
+        {
+            "item": "fsang:tri_polymer_purple"
+        },
+        {
+            "item": "fsang:tri_polymer_purple"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_purple2",
+        "count": 2
+    }
+}

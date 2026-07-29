@@ -1,0 +1,42 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:dr_doom_god",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_white3"
+            },
+            "count": 12
+        },
+        {
+            "ingredient": {
+                "item": "fsang:dr_doom_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:dr_doom_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:dr_doom_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:dr_doom_boots"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "requires_unlocking": false
+}

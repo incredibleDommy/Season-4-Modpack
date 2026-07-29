@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WIW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:iron_ingot"
+        },
+        "I": {
+            "item": "fsang:iron_circuit"
+        }
+    },
+    "result": {
+        "item": "fsang:iron_man_mending1",
+        "count": 4
+    }
+}

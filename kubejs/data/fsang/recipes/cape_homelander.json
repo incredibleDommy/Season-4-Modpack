@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " BB",
+        " RW",
+        " WR"
+    ],
+    "key": {
+        "R": {
+            "tag": "palladium:red_fabrics"
+        },
+        "W": {
+            "tag": "palladium:white_fabrics"
+        },
+        "B": {
+            "tag": "palladium:blue_fabrics"
+        }
+    },
+    "result": {
+        "item": "fsang:cape_homelander",
+        "count": 1
+    }
+}

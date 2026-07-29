@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HR ",
+        "RHR",
+        "TRH"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:paper"
+        },
+        "H": {
+            "item": "minecraft:experience_bottle"
+        },
+        "T": {
+            "tag": "palladium:red_fabrics"
+        }
+    },
+    "result": {
+        "item": "fsang:combat_scroll2",
+        "count": 1
+    }
+}

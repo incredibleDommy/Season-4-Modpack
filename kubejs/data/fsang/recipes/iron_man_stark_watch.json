@@ -1,0 +1,45 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "head": "fsang:stark_watch"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:netherite_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            },
+            "count": 6
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:glass_pane"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:redstone"
+            },
+            "count": 8
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_book"
+    },
+    "tool_icon": "fsang:item/blueprint_book_empty",
+    "title": "StarkTech Watch",
+    "category": "fsang:iron_man",
+    "requires_unlocking": false
+}

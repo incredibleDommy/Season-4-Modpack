@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TKT",
+        "SIS",
+        "TKT"
+    ],
+    "key": {
+        "K": {
+            "tag": "fsang:natural_symbiotes"
+        },
+        "S": {
+            "tag": "fsang:artificial_symbiotes"
+        },
+        "I": {
+            "item": "fsang:augmented_human_dna"
+        },
+        "T": {
+            "item": "fsang:techno_organic_block"
+        }
+    },
+    "result": {
+        "item": "fsang:necrotech_dna",
+        "count": 1
+    }
+}

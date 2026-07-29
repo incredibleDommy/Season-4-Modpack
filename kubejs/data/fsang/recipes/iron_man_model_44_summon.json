@@ -1,0 +1,63 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "chest": "fsang:iron_man_model_44_summon"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:netherite_circuit"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "item": "fsang:titanium_circuit"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_boots"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_black3"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_yellow3"
+            },
+            "count": 8
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_iron_man_model_44_hb"
+    },
+    "tool_icon": "fsang:item/blueprint_empty",
+    "category": "fsang:iron_man",
+    "title": "Iron Man (Model 44, Hulkbuster)",
+    "requires_unlocking": false
+}

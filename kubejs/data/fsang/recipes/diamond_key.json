@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " IG",
+        " O ",
+        " I "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "fsang:diamond_circuit"
+        },
+        "O": {
+            "item": "fsang:golden_key"
+        }
+    },
+    "result": {
+        "item": "fsang:diamond_key",
+        "count": 1
+    }
+}

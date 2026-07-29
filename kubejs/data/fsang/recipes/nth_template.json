@@ -1,0 +1,24 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SAS",
+        "SBS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:nth_ingot"
+        },
+        "A": {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        },
+        "B": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:nth_template",
+        "count": 1
+    }
+}

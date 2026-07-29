@@ -1,0 +1,48 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:elektra",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_red2"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_black2"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:daredevil_starter_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:daredevil_starter_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:daredevil_starter_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:daredevil_starter_boots"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "requires_unlocking": false
+}

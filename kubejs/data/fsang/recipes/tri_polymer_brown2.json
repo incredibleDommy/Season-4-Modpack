@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "palladium:brown_fabrics"
+        },
+        {
+            "tag": "palladium:brown_fabrics"
+        },
+        {
+            "tag": "palladium:brown_fabrics"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_brown2",
+        "count": 2
+    }
+}

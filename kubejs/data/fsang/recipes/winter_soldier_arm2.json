@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " IR",
+        "  W",
+        "  W"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_chestplate"
+        },
+        "R": {
+            "tag": "palladium:red_fabrics"
+        },
+        "W": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:winter_soldier_arm2",
+        "count": 1
+    }
+}

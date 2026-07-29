@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RIR",
+        "R R",
+        "R R"
+    ],
+    "key": {
+        "I": {
+            "item": "fsang:iron_man_base_1_leggings"
+        },
+        "R": {
+            "tag": "forge:ingots/titanium"
+        }
+    },
+    "result": {
+        "item": "fsang:iron_man_base_2_leggings",
+        "count": 1
+    }
+}

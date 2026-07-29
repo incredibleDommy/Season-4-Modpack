@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:blue_wool"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:blue_wool"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_blue",
+        "count": 2
+    }
+}

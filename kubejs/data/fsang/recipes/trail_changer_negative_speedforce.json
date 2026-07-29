@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "Y C",
+        "BGB",
+        " B "
+    ],
+    "key": {
+        "C": {
+            "item": "fsang:speedster_chemicals"
+        },
+        "G": {
+            "item": "fsang:diamond_circuit"
+        },
+        "B": {
+            "item": "minecraft:iron_ingot"
+        },
+        "Y": {
+            "item": "fsang:tri_polymer_red3"
+        }
+    },
+    "result": {
+        "item": "fsang:trail_changer_negative_speedforce",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:nth_template"
+    },
+    "base": {"item":"minecraft:trident"},
+    "addition": {"item":"fsang:nth_block"},
+    "result": {"item":"fsang:neptune_trident"}
+}

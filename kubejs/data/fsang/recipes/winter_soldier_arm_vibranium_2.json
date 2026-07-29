@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:winter_soldier_arm_vibranium2"
+        },
+        {
+            "item": "palladium:vibranium_ingot"
+        }
+    ],
+    "result": {
+        "item": "fsang:winter_soldier_arm_vibranium",
+        "count": 1
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "legs": "fsang:batman_knightfight_damian_belt"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:white_fabrics"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:black_fabrics"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:brown_fabrics"
+            },
+            "count": 3
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "title": "Utility Belt (Batman - Knightfight - Damian Wayne)",
+    "requires_unlocking": false
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:combat_scroll"
+        },
+        {
+            "tag": "palladium:red_fabrics"
+        },
+        {
+            "item": "minecraft:experience_bottle"
+        }
+    ],
+    "result": {
+        "item": "fsang:combat_scroll2",
+        "count": 1
+    }
+}

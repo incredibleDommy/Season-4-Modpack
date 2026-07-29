@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TBR",
+        "DCD",
+        "RBT"
+    ],
+    "key": {
+        "B": {
+            "item": "palladium:lead_circuit"
+        },
+        "D": {
+            "item": "fsang:iron_circuit"
+        },
+        "C": {
+            "item": "palladium:redstone_flux_crystal"
+        },
+        "R": {
+            "tag": "forge:ingots/iron"
+        },
+        "T": {
+            "tag": "forge:ingots/gold"
+        }
+    },
+    "result": {
+        "item": "fsang:iron_man_arc_core",
+        "count": 1
+    }
+}

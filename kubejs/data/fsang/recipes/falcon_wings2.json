@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:vibranium_template"
+    },
+    "base": {
+        "item": "fsang:falcon_wings"
+    },
+    "addition": {
+        "item": "palladium:vibranium_circuit"
+    },
+    "result": {
+        "item": "fsang:falcon_wings_vibranium"
+    }
+}

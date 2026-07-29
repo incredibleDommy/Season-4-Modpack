@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "ULU",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "fsang:tri_polymer_green"
+        },
+        "U": {
+            "item": "fsang:uru_ingot"
+        },
+        "L": {
+            "item": "minecraft:leather_chestplate"
+        }
+    },
+    "result": {
+        "item": "fsang:jacket_loki",
+        "count": 1
+    }
+}

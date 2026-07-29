@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "palladium:white_fabrics"
+        },
+        {
+            "tag": "palladium:white_fabrics"
+        },
+        {
+            "tag": "palladium:white_fabrics"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_white2",
+        "count": 2
+    }
+}

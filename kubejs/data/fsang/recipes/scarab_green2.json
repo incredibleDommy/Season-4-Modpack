@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+        "item": "fsang:scarab_green"
+    }
+    ],
+    "result": {
+        "item": "fsang:scarab_base",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:x_gene"
+        },
+        {
+            "item": "minecraft:nether_star"
+        },
+        {
+            "item": "fsang:augmented_human_dna"
+        },
+        {
+            "item": "fsang:super_soldier_dna"
+        }
+    ],
+    "result": {
+        "item": "fsang:anti_matter_dna",
+        "count": 1
+        
+    }
+}

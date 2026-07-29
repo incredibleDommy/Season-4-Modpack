@@ -1,0 +1,48 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:flash_rebirth",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_red2"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_white2"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:flash_wally_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:flash_wally_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:flash_wally_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:flash_wally_boots"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "requires_unlocking": false
+}

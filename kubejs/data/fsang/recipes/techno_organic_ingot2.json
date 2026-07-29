@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:techno_organic_block"
+        }
+    ],
+    "result": {
+        "item": "fsang:techno_organic_ingot",
+        "count": 9
+    }
+}

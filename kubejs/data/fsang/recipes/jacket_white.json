@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RLR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "tag": "forge:fabric/basic_fabric"
+        },
+        "L": {
+            "item": "minecraft:leather_chestplate"
+        }
+    },
+    "result": {
+        "item": "fsang:jacket_long_custom",
+        "count": 1
+    }
+}

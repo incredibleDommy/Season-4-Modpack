@@ -1,0 +1,60 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:iron_man_model_70",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:titanium_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_3_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_3_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_3_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_3_boots"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_red2"
+            },
+            "count": 6
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_yellow2"
+            },
+            "count": 6
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_iron_man_model_70"
+    },
+    "tool_icon": "fsang:item/blueprint_empty",
+    "category": "fsang:iron_man",
+    "requires_unlocking": false
+}

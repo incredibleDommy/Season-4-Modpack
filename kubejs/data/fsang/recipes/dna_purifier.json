@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "fsang:augmented_human_dna"
+    },
+    "result": "fsang:dna_purifier",
+    "experience": 0.1,
+    "cookingtime": 2400
+}

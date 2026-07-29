@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "tag": "forge:ingots/titanium"
+        }
+    ],
+    "result": {
+        "item": "fsang:gold_titanium_ingot",
+        "count": 2
+    }
+}

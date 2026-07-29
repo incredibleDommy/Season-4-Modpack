@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "base": {
+        "item": "fsang:augmented_human_dna"
+    },
+    "addition": {
+        "item": "minecraft:sand"
+    },
+    "result": {
+        "item": "fsang:sandman_dna"
+    }
+}

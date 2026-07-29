@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "fsang:titanium_circuit"
+        },
+        {
+            "item": "fsang:netherite_circuit"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:ai_tadashi",
+        "count": 1
+        
+    }
+}

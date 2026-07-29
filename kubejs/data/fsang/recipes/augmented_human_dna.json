@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "fsang:human_dna"
+    },
+    "result": "fsang:augmented_human_dna",
+    "experience": 0.1,
+    "cookingtime": 1200
+}

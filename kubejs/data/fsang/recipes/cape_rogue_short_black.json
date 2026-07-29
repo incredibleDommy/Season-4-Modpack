@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:cape_rogue"
+        },
+        {
+            "item": "minecraft:shears"
+        }
+    ],
+    "result": {
+        "item": "fsang:cape_rogue_short",
+        "count": 1
+        
+    }
+}

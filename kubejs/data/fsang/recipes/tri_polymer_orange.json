@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:orange_wool"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_orange",
+        "count": 2
+    }
+}

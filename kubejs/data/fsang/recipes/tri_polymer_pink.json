@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:pink_wool"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:pink_wool"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_pink",
+        "count": 2
+    }
+}

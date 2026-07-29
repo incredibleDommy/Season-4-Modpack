@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:adamantium_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:adamantium_block",
+        "count": 1
+    }
+}

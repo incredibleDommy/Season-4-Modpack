@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SLS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:radioactive_spider_venom"
+        },
+        "L": {
+            "item": "fsang:augmented_human_dna"
+        }
+    },
+    "result": {
+        "item": "fsang:spider_serum",
+        "count": 1
+    }
+}

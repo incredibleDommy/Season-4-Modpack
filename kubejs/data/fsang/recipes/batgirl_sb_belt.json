@@ -1,0 +1,33 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "legs": "fsang:batgirl_sb_belt"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:yellow_fabrics"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:orange_fabrics"
+            },
+            "count": 3
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "title": "Utility Belt (Batgirl - Stephanie Brown)",
+    "requires_unlocking": false
+}

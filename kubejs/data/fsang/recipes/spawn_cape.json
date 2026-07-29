@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R R",
+        "RHR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "tag": "palladium:red_fabrics"
+        },
+        "H": {
+            "item": "fsang:hellfire_soul"
+        }
+    },
+    "result": {
+        "item": "fsang:spawn_cape",
+        "count": 1
+    }
+}

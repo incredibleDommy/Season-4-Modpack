@@ -1,0 +1,27 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "legs": "fsang:robin_damian_belt"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:yellow_fabrics"
+            },
+            "count": 6
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "title": "Utility Belt (Robin - Damian Wayne)",
+    "requires_unlocking": false
+}

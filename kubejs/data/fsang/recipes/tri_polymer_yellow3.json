@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:tri_polymer_yellow2"
+        },
+        {
+            "item": "fsang:tri_polymer_yellow2"
+        },
+        {
+            "item": "fsang:tri_polymer_yellow2"
+        },
+        {
+            "item": "fsang:iron_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_yellow3",
+        "count": 2
+    }
+}

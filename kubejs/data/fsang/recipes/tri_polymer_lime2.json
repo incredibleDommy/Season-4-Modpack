@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "palladium:lime_fabrics"
+        },
+        {
+            "tag": "palladium:lime_fabrics"
+        },
+        {
+            "tag": "palladium:lime_fabrics"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_lime2",
+        "count": 2
+    }
+}

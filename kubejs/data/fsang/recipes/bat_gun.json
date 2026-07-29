@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IRR",
+        "RI ",
+        "I  "
+    ],
+    "key": {
+        "R": 
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "I": 
+        {
+            "item": "fsang:tri_polymer_black"
+        }
+    },
+    "result": {
+        "item": "fsang:bat_gun",
+        "count": 1
+    }
+}

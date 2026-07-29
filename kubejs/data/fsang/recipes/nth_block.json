@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:nth_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:nth_block",
+        "count": 1
+    }
+}

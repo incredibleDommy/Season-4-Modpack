@@ -1,0 +1,54 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:invincible",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_yellow2"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_blue2"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_black2"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "fsang:invincible_homemade_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:invincible_homemade_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:invincible_homemade_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:invincible_homemade_boots"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "requires_unlocking": false
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+        "item": "pantheonsent:scarab_compass"
+    },
+    {
+        "item": "fsang:titanium_circuit"
+    },
+    {
+        "item": "fsang:diamond_circuit"
+    },
+    {
+        "item": "fsang:diamond_circuit"
+    }
+    ],
+    "result": {
+        "item": "fsang:scarab_base",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SBS",
+        "BAB",
+        "SBS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:uru_ingot"
+        },
+        "A": {
+            "item": "minecraft:golden_apple"
+        },
+        "B": {
+            "item": "fsang:uru_block"
+        }
+    },
+    "result": {
+        "item": "fsang:uru_apple",
+        "count": 1
+    }
+}

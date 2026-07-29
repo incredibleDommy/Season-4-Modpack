@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:copper_ingot"
+        },
+        {
+            "item": "fsang:batarang"
+        },
+        {
+            "item": "fsang:batarang"
+        },
+        {
+            "item": "fsang:iron_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:batarang_shock",
+        "count": 4
+    }
+}

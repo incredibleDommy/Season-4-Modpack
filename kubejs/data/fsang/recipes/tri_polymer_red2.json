@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "palladium:red_fabrics"
+        },
+        {
+            "tag": "palladium:red_fabrics"
+        },
+        {
+            "tag": "palladium:red_fabrics"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "fsang:tri_polymer_red2",
+        "count": 2
+    }
+}

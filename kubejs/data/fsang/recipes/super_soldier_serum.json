@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "fsang:augmented_human_dna"
+    },
+    "result": "fsang:super_soldier_serum",
+    "experience": 0.1,
+    "cookingtime": 12000
+}

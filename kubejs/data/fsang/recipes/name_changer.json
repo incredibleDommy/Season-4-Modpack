@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:diamond_circuit"
+        },
+        {
+            "item": "fsang:iron_circuit"
+        },
+        {
+            "item": "fsang:iron_circuit"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:name_changer",
+        "count": 1
+    }
+}

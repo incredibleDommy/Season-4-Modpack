@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:vibranium_template"
+    },
+    "base": {
+        "item": "fsang:winter_soldier_arm2"
+    },
+    "addition": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": {
+        "item": "fsang:winter_soldier_arm_vibranium2"
+    }
+}

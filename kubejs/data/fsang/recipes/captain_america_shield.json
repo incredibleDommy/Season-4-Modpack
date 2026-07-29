@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:vibranium_template"
+    },
+    "base": {
+        "item": "minecraft:shield"
+    },
+    "addition": {
+        "item": "fsang:adamantium_ingot"
+    },
+    "result": {
+        "item": "fsang:captain_america_shield"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " # ",
+        "BNB"
+    ],
+    "key": {
+        "#": {
+            "item": "fsang:uru_ingot"
+        },
+        "N": {
+            "item": "minecraft:netherite_sword"
+        },
+        "B": {
+            "item": "fsang:uru_template"
+        }
+    },
+    "result": {
+        "item": "fsang:hofund",
+        "count": 1
+    }
+}

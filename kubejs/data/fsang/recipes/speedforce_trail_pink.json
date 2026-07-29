@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:speedster_chemicals"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        }
+    ],
+    "result": {
+        "item": "fsang:speedforce_trail_pink",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "KK ",
+        "KS ",
+        " S "
+    ],
+    "key": {
+        "K": {
+            "item": "fsang:kryptonite_shard"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "fsang:kryptonite_axe",
+        "count": 1
+    }
+}

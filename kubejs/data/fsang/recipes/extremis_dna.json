@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GUG",
+        "UIU",
+        "GUG"
+    ],
+    "key": {
+        "U": {
+            "tag": "fsang:ai_chips"
+        },
+        "I": {
+            "item": "fsang:super_soldier_serum"
+        },
+        "G": {
+            "item": "fsang:iron_man_arc_core"
+        }
+    },
+    "result": {
+        "item": "fsang:extremis_dna",
+        "count": 1
+    }
+}

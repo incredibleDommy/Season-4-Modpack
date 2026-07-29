@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GDG",
+        "SIS",
+        "GDG"
+    ],
+    "key": {
+        "I": {
+            "item": "fsang:super_soldier_serum"
+        },
+        "S": {
+            "item": "fsang:speedster_chemicals"
+        },
+        "D": {
+            "item": "minecraft:silence_armor_trim_smithing_template"
+        },
+        "G": {
+            "item": "fsang:cosmic_particle"
+        }
+    },
+    "result": {
+        "item": "fsang:sentry_dna",
+        "count": 1
+    }
+}

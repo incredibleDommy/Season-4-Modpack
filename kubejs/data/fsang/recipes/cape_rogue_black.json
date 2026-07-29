@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " I ",
+        " R "
+    ],
+    "key": {
+        "R": {
+            "tag": "fsang:fabric/basic_fabric"
+        },
+        "I": {
+            "item": "fsang:cape_heroic"
+        }
+    },
+    "result": {
+        "item": "fsang:cape_rogue",
+        "count": 1
+    }
+}

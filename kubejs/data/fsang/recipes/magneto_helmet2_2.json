@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:magneto_helmet2"
+        }
+    ],
+    "result": {
+        "item": "fsang:magneto_helmet",
+        "count": 1
+    }
+}

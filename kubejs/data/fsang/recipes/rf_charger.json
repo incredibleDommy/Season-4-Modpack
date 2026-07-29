@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:furnace"
+        },
+        {
+            "item": "minecraft:redstone_block"
+        },
+        {
+            "item": "fsang:iron_man_arc_core"
+        },
+        {
+            "item": "minecraft:redstone_block"
+        }
+    ],
+    "result": {
+        "item": "fsang:rf_charger",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:iron_man_model_51_doom",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:golden_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_model_51_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_model_51_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_model_51_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_model_51_boots"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_green2"
+            },
+            "count": 6
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_light_gray2"
+            },
+            "count": 6
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_iron_man_model_51_doom"
+    },
+    "tool_icon": "fsang:item/blueprint_empty",
+    "category": "fsang:iron_man",
+    "requires_unlocking": false
+}

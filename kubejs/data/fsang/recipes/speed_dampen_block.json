@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CBC",
+        "BIB",
+        "CBC"
+    ],
+    "key": {
+        "B": {
+            "item": "fsang:titanium_circuit"
+        },
+        "C": {
+            "item": "minecraft:netherite_block"
+        },
+        "I": {
+            "item": "fsang:inhibitor_collar3"
+        }
+    },
+    "result": {
+        "item": "fsang:speed_dampen_block",
+        "count": 1
+    }
+}

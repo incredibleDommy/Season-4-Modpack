@@ -1,0 +1,63 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "chest": "fsang:iron_man_nano_50"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:golden_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:nanite"
+            },
+            "count": 48
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_boots"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "tag": "fsang:artificial_symbiotes"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_iron_man_model_50"
+    },
+    "tool_icon": "fsang:item/blueprint_empty",
+    "category": "fsang:iron_man",
+    "title": "Iron Man (Model 50, Nano Housing Unit)",
+    "requires_unlocking": false
+}

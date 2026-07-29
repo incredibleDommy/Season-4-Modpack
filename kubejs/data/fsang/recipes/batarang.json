@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R R",
+        "RIR",
+        " R "
+    ],
+    "key": {
+        "R": 
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        "I": 
+        {
+            "item": "fsang:tri_polymer_black"
+        }
+    },
+    "result": {
+        "item": "fsang:batarang",
+        "count": 8
+    }
+}

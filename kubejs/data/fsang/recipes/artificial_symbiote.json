@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "fsang:augmented_human_dna"
+        }
+    ],
+    "result": {
+        "item": "fsang:symbiote_artificial",
+        "count": 1
+        
+    }
+}

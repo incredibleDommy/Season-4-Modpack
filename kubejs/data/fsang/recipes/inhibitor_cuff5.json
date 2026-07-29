@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CBC",
+        "BIB",
+        "CBC"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "C": {
+            "item": "minecraft:iron_ingot"
+        },
+        "B": {
+            "item": "fsang:golden_circuit"
+        }
+    },
+    "result": {
+        "item": "fsang:inhibitor_cuff5",
+        "count": 1
+    }
+}

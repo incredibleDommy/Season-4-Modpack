@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RIR",
+        "RRR"
+    ],
+    "key": {
+        "I": {
+            "item": "fsang:diamond_circuit"
+        },
+        "R": {
+            "item": "fsang:vibranium_nugget"
+        }
+    },
+    "result": {
+        "item": "fsang:nanite",
+        "count": 8
+    }
+}

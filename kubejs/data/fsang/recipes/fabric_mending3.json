@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:fabric/tri_polymer_fabric"
+        },
+        {
+            "tag": "forge:fabric/tri_polymer_fabric"
+        },
+        {
+            "tag": "forge:fabric/tri_polymer_fabric"
+        },
+        {
+            "tag": "forge:fabric/tri_polymer_fabric"
+        }
+    ],
+    "result": {
+        "item": "fsang:fabric_mending3",
+        "count": 2
+    }
+}

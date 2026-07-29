@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IRI",
+        "QLQ",
+        "IRI"
+    ],
+    "key": {
+        "Q": {
+            "item": "fsang:diamond_circuit"
+        },
+        "L": {
+            "item": "minecraft:note_block"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "palladium:redstone_flux_crystal"
+        }
+    },
+    "result": {
+        "item": "fsang:sonic_gun",
+        "count": 1
+    }
+}

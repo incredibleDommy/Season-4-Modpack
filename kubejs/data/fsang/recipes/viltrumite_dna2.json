@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "base": {"item":"fsang:augmented_human_dna"},
+    "addition": {"item":"fsang:viltrumite_fossil"},
+    "result": {"item":"fsang:viltrumite_dna2"}
+}

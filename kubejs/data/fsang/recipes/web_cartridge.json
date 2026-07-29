@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "QQQ",
+        "LLL"
+    ],
+    "key": {
+        "Q": {
+            "item": "fsang:web_fluid"
+        },
+        "L": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:web_cartridge",
+        "count": 2
+    }
+}

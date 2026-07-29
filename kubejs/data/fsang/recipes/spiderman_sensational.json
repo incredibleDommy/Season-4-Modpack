@@ -1,0 +1,54 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:spiderman_sensational",
+    "ingredients": [
+        {
+            "ingredient": {
+                "tag": "palladium:red_fabrics"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:blue_fabrics"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "fsang:spiderman_scarlet_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:spiderman_scarlet_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:spiderman_scarlet_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:spiderman_scarlet_boots"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "requires_unlocking": false
+}

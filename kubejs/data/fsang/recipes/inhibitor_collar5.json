@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CBC",
+        "BIB",
+        "CBC"
+    ],
+    "key": {
+        "I": {
+            "item": "fsang:inhibitor_cuff5"
+        },
+        "C": {
+            "item": "minecraft:gold_ingot"
+        },
+        "B": {
+            "item": "fsang:diamond_circuit"
+        }
+    },
+    "result": {
+        "item": "fsang:inhibitor_collar5",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:ruby_quartz"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "fsang:augmented_human_dna"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        }
+    ],
+    "result": {
+        "item": "fsang:x_gene",
+        "count": 1
+        
+    }
+}

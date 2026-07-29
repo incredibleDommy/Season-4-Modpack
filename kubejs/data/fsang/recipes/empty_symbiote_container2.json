@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IJI",
+        "GSG",
+        "III"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:empty_vial"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "J": {
+            "item": "fsang:diamond_circuit"
+        },
+        "G": {
+            "item": "minecraft:tinted_glass"
+        }
+    },
+    "result": {
+        "item": "fsang:symbiote_empty_dna",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BIB",
+        "RBR",
+        "R R"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:leather_leggings"
+        },
+        "R": {
+            "item": "fsang:tri_polymer_white"
+        },
+        "B": {
+            "item": "fsang:tri_polymer_black"
+        }
+    },
+    "result": {
+        "item": "fsang:zatana_leggings",
+        "count": 1
+    }
+}

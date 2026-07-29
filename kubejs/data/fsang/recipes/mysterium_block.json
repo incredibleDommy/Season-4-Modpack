@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:mysterium_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:mysterium_block",
+        "count": 1
+    }
+}

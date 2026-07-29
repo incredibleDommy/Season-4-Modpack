@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:uru_template"
+    },
+    "base": {"item":"fsang:augmented_human_dna"},
+    "addition": {"item":"minecraft:wither_rose"},
+    "result": {"item":"fsang:matter_absorption_dna"}
+}

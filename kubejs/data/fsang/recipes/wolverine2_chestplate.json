@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:wolverine_chestplate"
+        },
+        {
+            "item": "minecraft:shears"
+        }
+    ],
+    "result": {
+        "item": "fsang:wolverine2_chestplate",
+        "count": 1
+        
+    }
+}

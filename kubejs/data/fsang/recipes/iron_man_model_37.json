@@ -1,0 +1,69 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "chest": "fsang:iron_man_nano_37"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_arc_core"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:golden_circuit"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "item": "fsang:nanite"
+            },
+            "count": 12
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_2_boots"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:uru_template"
+            },
+            "count": 2
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_iron_man_model_37"
+    },
+    "tool_icon": "fsang:item/blueprint_empty",
+    "category": "fsang:iron_man",
+    "title": "Iron Man (Model 37, Nano Housing Unit)",
+    "requires_unlocking": false
+}

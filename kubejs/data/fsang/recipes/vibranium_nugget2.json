@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        }
+    ],
+    "result": {
+        "item": "palladium:vibranium_ingot",
+        "count": 1
+    }
+}

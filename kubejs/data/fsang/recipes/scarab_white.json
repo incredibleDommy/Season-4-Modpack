@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+        "item": "fsang:scarab_base"
+    },
+    {
+        "item": "minecraft:white_dye"
+    },
+    {
+        "item": "fsang:augmented_human_dna"
+    }
+    ],
+    "result": {
+        "item": "fsang:scarab_white",
+        "count": 1
+        
+    }
+}

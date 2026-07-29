@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+        "item": "minecraft:arrow"
+    },
+    {
+        "item": "minecraft:arrow"
+    }
+    ],
+    "result": {
+        "item": "fsang:impact_arrow",
+        "count": 1
+        
+    }
+}

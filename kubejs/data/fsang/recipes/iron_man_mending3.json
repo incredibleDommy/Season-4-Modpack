@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:iron_man_mending2"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:iron_man_mending3",
+        "count": 2
+    }
+}

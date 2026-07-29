@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "fsang:techno_organic_ingot"
+        }
+    },
+    "result": {
+        "item": "fsang:techno_organic_block",
+        "count": 1
+    }
+}

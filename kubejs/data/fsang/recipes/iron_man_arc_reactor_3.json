@@ -1,0 +1,51 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "chest": "fsang:iron_man_arc_reactor_3"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_arc_core"
+            },
+            "count": 10
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:nether_star"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "fsang:netherite_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:titanium_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "palladium:quartz_flux_capacitor"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            },
+            "count": 12
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_book"
+    },
+    "tool_icon": "fsang:item/blueprint_book_empty",
+    "title": "Arc Reactor (Model III)",
+    "category": "fsang:iron_man",
+    "requires_unlocking": false
+}

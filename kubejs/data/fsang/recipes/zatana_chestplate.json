@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "G G",
+        "GIG",
+        "BBB"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "G": {
+            "item": "fsang:tri_polymer_white"
+        },
+        "B": {
+            "item": "fsang:tri_polymer_black"
+        }
+    },
+    "result": {
+        "item": "fsang:zatana_chestplate",
+        "count": 1
+    }
+}

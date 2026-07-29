@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SIS",
+        "QLQ",
+        "SQS"
+    ],
+    "key": {
+        "Q": {
+            "item": "fsang:netherite_circuit"
+        },
+        "S": {
+            "item": "minecraft:diamond"
+        },
+        "I": {
+            "item": "fsang:titanium_circuit"
+        },
+        "L": {
+            "item": "fsang:web_shooters2"
+        }
+    },
+    "result": {
+        "item": "fsang:web_shooters3",
+        "count": 1
+    }
+}

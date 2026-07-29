@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "FHF",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_bottle"
+        },
+        "F": {
+            "item": "fsang:dark_matter"
+        },
+        "H": {
+            "item": "fsang:augmented_human_dna"
+        }
+    },
+    "result": {
+        "item": "fsang:speedster_chemicals",
+        "count": 1
+    }
+}

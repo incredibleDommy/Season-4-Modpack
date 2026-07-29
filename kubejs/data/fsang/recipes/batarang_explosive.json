@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:tnt"
+        },
+        {
+            "item": "fsang:batarang"
+        },
+        {
+            "item": "fsang:batarang"
+        },
+        {
+            "item": "fsang:golden_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:batarang_explosive",
+        "count": 2
+    }
+}

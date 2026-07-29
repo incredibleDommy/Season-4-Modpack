@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BIB",
+        "W W",
+        "   "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:leather_boots"
+        },
+        "B": {
+            "item": "fsang:tri_polymer_white"
+        },
+        "W": {
+            "item": "fsang:tri_polymer_black"
+        }
+    },
+    "result": {
+        "item": "fsang:zatana_boots",
+        "count": 1
+    }
+}

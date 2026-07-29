@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:tachyon_device"
+        },
+        {
+            "item": "fsang:netherite_circuit"
+        },
+        {
+            "item": "fsang:titanium_circuit"
+        },
+        {
+            "item": "fsang:titanium_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:tachyon_device2",
+        "count": 1
+    }
+}

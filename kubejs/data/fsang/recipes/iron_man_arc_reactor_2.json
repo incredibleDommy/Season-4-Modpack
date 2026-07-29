@@ -1,0 +1,45 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "chest": "fsang:iron_man_arc_reactor_2"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_arc_core"
+            },
+            "count": 5
+        },
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "fsang:netherite_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "palladium:lead_flux_capacitor"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            },
+            "count": 8
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_book"
+    },
+    "tool_icon": "fsang:item/blueprint_book_empty",
+    "title": "Arc Reactor (Model II)",
+    "category": "fsang:iron_man",
+    "requires_unlocking": false
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "base": {
+        "item": "fsang:martian_fossil"
+    },
+    "addition": {
+        "item": "fsang:nth_block"
+    },
+    "result": {
+        "item": "fsang:martian_green_dna"
+    }
+}

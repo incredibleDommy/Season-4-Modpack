@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:white_dye"
+        },
+        {
+            "item": "fsang:titanium_circuit"
+        },
+        {
+            "item": "fsang:netherite_circuit"
+        },
+        {
+            "item": "fsang:diamond_circuit"
+        }
+    ],
+    "result": {
+        "item": "fsang:ai_jarvis",
+        "count": 1
+        
+    }
+}

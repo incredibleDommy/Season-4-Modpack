@@ -1,0 +1,31 @@
+# World Saves & Backups
+/saves/
+/backups/
+/world*/
+crash-reports/
+logs/
+*.log
+
+# Client-specific and Local User Data
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
+local/
+
+# Caches and Temporary Files
+/cache/
+*.cache
+.cache/
+/.mixin.out/
+/classOut/
+
+# IDE and OS Files
+.idea/
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db

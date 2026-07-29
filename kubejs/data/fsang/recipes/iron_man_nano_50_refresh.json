@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "fsang:vibranium_template"
+    },
+    "base": {
+        "item": "fsang:iron_man_nano_50"
+    },
+    "addition": {
+        "item": "fsang:iron_man_mending2"
+    },
+    "result": {
+        "item": "fsang:iron_man_nano_50_init"
+    }
+}

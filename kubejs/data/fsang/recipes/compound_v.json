@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:speedster_chemicals"
+        },
+        {
+            "item": "fsang:x_gene"
+        },
+        {
+            "item": "fsang:super_soldier_serum"
+        },
+        {
+            "item": "fsang:particle_dna"
+        }
+    ],
+    "result": {
+        "item": "fsang:compound_v",
+        "count": 1
+    }
+}

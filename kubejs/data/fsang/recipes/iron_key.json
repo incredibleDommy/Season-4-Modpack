@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " IG",
+        " I ",
+        " I "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": {
+            "item": "fsang:iron_circuit"
+        }
+    },
+    "result": {
+        "item": "fsang:iron_key",
+        "count": 1
+    }
+}

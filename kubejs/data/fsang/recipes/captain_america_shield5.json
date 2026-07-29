@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:captain_america_shield"
+        },
+        {
+            "item": "fsang:tri_polymer_blue"
+        },
+        {
+            "item": "fsang:tri_polymer_light_gray"
+        },
+        {
+            "item": "fsang:tri_polymer_blue"
+        }
+    ],
+    "result": {
+        "item": "fsang:captain_america_shield5",
+        "count": 1
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "palladium:item_tailoring",
+    "results": {
+        "head": "fsang:cerebro_helmet"
+    },
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "minecraft:iron_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:blue_stained_glass_pane"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:golden_circuit"
+            },
+            "count": 2
+        },
+        {
+            "ingredient": {
+                "item": "fsang:diamond_circuit"
+            },
+            "count": 2
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "title": "Cerebro",
+    "requires_unlocking": false
+}

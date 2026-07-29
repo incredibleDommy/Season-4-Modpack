@@ -1,0 +1,20 @@
+{
+  "time": {
+    "bypass_invulnerable_time": true,
+    "slot_interaction": false,
+    "reverse_timebox": false,
+    "cooldown": 0,
+    "ability_tick": 0,
+    "sound_type": "EMPTY",
+    "custom_sound_id": "modid:sound"
+  },
+  "arrow": {
+    "blacklist": [
+      "modid:id"
+    ]
+  },
+  "entity": {
+    "model_size": 1.0,
+    "entity_ownership_bypass": false
+  }
+}

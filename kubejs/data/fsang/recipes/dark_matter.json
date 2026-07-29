@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:kryptonite_shard"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "fsang:augmented_human_dna"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        }
+    ],
+    "result": {
+        "item": "fsang:dark_matter",
+        "count": 1
+    }
+}

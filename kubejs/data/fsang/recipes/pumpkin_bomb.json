@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IBI",
+        "CRC",
+        "ICI"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:tnt"
+        },
+        "I": {
+            "item": "minecraft:pumpkin"
+        },
+        "C": {
+            "item": "fsang:golden_circuit"
+        },
+        "B": {
+            "tag": "minecraft:buttons"
+        }
+    },
+    "result": {
+        "item": "fsang:pumpkin_bomb",
+        "count": 2
+    }
+}

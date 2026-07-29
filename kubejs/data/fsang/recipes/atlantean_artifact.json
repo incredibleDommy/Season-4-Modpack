@@ -1,0 +1,12 @@
+{
+    "type": "pantheonsent:restoration",
+    "addition": {
+      "item": "pantheonsent:ancient_clay_shard"
+    },
+    "base": {
+      "item": "fsang:atlantean_clay"
+    },
+    "result": {
+      "item": "fsang:atlantean_artifact"
+    }
+  }

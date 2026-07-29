@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:feather"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        },
+        {
+            "item": "fsang:vibranium_nugget"
+        }
+    ],
+    "result": {
+        "item": "fsang:vibranium_feather",
+        "count": 16
+    }
+}

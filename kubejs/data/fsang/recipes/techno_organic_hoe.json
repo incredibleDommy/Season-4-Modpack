@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "KK ",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "K": {
+            "item": "fsang:techno_organic_ingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "fsang:techno_organic_hoe",
+        "count": 1
+    }
+}

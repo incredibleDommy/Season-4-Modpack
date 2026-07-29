@@ -1,0 +1,78 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:iron_man_model_72",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "fsang:netherite_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:titanium_circuit"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_helmet"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:iron_man_base_4_boots"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_red3"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_yellow3"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:tri_polymer_black3"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:gray_fabrics"
+            },
+            "count": 3
+        },
+        {
+            "ingredient": {
+                "item": "fsang:mysterium_ingot"
+            },
+            "count": 24
+        }
+    ],
+    "tool": {
+        "item": "fsang:blueprint_iron_man_model_72"
+    },
+    "tool_icon": "fsang:item/blueprint_empty",
+    "category": "fsang:iron_man",
+    "requires_unlocking": false
+}

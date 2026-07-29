@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:jacket_custom"
+        },
+        {
+            "tag": "palladium:yellow_fabrics"
+        },
+        {
+            "tag": "palladium:blue_fabrics"
+        },
+        {
+            "tag": "palladium:yellow_fabrics"
+        }
+    ],
+    "result": {
+        "item": "fsang:jacket_wolverine_rivals",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+        "item": "minecraft:arrow"
+    },
+    {
+        "item": "minecraft:ink_sac"
+    },
+    {
+        "item": "minecraft:ink_sac"
+    }
+    ],
+    "result": {
+        "item": "fsang:smoke_arrow",
+        "count": 1
+        
+    }
+}

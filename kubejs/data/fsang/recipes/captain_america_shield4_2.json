@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fsang:captain_america_shield4"
+        },
+        {
+            "item": "minecraft:brush"
+        }
+    ],
+    "result": {
+        "item": "fsang:captain_america_shield",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+        "item": "fsang:jacket_custom"
+    },
+    {
+        "item": "fsang:tri_polymer_brown"
+    }
+    ],
+    "result": {
+        "item": "fsang:jacket_bomber_custom",
+        "count": 1
+        
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "type": "palladium:suit_set_tailoring",
+    "suit_set": "fsang:mera",
+    "ingredients": [
+        {
+            "ingredient": {
+                "tag": "palladium:green_fabrics"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "tag": "palladium:blue_fabrics"
+            },
+            "count": 4
+        },
+        {
+            "ingredient": {
+                "item": "fsang:nth_template"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:diamond_chestplate"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:diamond_leggings"
+            },
+            "count": 1
+        },
+        {
+            "ingredient": {
+                "item": "minecraft:diamond_boots"
+            },
+            "count": 1
+        }
+    ],
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "tool_icon": "palladium:item/empty_tool_slot_shears",
+    "category": "fsang:suits",
+    "requires_unlocking": false
+}

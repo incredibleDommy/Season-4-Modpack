@@ -1,0 +1,22 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:fabric/advanced_fabric"
+        },
+        {
+            "tag": "forge:fabric/advanced_fabric"
+        },
+        {
+            "tag": "forge:fabric/advanced_fabric"
+        },
+        {
+            "tag": "forge:fabric/advanced_fabric"
+        }
+    ],
+    "result": {
+        "item": "fsang:fabric_mending2",
+        "count": 2
+    }
+}
