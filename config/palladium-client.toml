@@ -2,4 +2,5 @@
 abilityBarPosition = "BOTTOM_RIGHT"
 addonPackDevMode = false
 accessoryButton = true
+disablePalladiumHubButton = false
 

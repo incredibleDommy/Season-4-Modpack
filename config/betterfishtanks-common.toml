@@ -12,6 +12,12 @@
 	#BETA MODE Set to true to use the new entity-based water rendering system.
 	#Set to false to use the vanilla waterlogging system.
 	useEntityWaterRendering = false
+	#Automatically deactivates fishtanks and aquariums from other mods by removing their crafting recipes.
+	#Set to false to keep fishtanks and aquariums from other mods craftable.
+	removeOtherModFishtanks = true
+	#Keywords used to detect fishtank/aquarium items from other mods.
+	#An item is deactivated if its registry path contains one of these keywords (own mod and vanilla are never affected).
+	otherModFishtankKeywords = ["fishtank", "fish_tank", "aquarium", "fishbowl", "fish_bowl"]
 
 [mob]
 	#Set to true to allow Drowned to be captured with the Fish Bag.

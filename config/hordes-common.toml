@@ -24,9 +24,9 @@
 	piglinsCureThemself = true
 	#Whether illagers kill zombie mobs
 	illagersHuntZombies = true
-	#Whether zoglins are agressive towards other undead mobs
+	#Whether zoglins are aggressive towards other undead mobs
 	zoglinsAttackUndead = false
-	#Whether zoglins are agressive towards non-undead monsters
+	#Whether zoglins are aggressive towards non-undead monsters
 	zoglinsAttackMobs = true
 
 ["Horde Event"]

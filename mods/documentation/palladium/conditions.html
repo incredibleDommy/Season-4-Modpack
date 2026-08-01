@@ -287,6 +287,10 @@ and</a>
 animation_timer_ability</a>
 </li>
 <li>
+<a href="#palladium:as_client_player">
+as_client_player</a>
+</li>
+<li>
 <a href="#palladium:brightness_at_position">
 brightness_at_position</a>
 </li>
@@ -3995,6 +3999,50 @@ false</td>
 Example:</h3>
 <pre class="json-snippet">
 {"type":"palladium:animation_timer_ability","power":"null","ability":"ability_id","min":0,"max":0}</pre>
+</div>
+<hr>
+
+<div id="palladium:as_client_player">
+<h2>
+as_client_player</h2>
+<p>
+Evaluates the given conditions against the client player (the player viewing the game) instead of the context entity. Useful for render layers that should only appear based on the viewing player's state. Returns false if this condition is being checked server-side.<br><br>Applicable for: assets</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+conditions</td>
+<td>
+Condition[]</td>
+<td>
+List of conditions to evaluate against the client player (the player viewing the game)</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+0 conditions</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"palladium:as_client_player","conditions":[]}</pre>
 </div>
 <hr>
 

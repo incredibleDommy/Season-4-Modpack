@@ -176,6 +176,17 @@
         "value": 1024
       }
     },
+    "palladium:flight_sprint_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 32,
+        "value": 32
+      }
+    },
     "tacz:tacz.bullet_resistance": {
       "enabled": false,
       "min": {

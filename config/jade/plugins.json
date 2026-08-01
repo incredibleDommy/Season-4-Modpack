@@ -69,10 +69,6 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "tombstone": {
-    "decorative_graves": true,
-    "player_graves": true
-  },
   "minecolonies_compatibility": {
     "crop.age": true,
     "postbox.requested": true,
@@ -119,11 +115,15 @@
     "chopping_board": true,
     "shawarma_spit": true,
     "recipe_block": true,
+    "food_bite_block": true,
     "millstone": true,
     "enamel_basin": true
   },
   "supplementaries": {
     "hat_stand": true
+  },
+  "corpse": {
+    "corpse": true
   },
   "cookingforblockheads": {
     "fridge": true,
