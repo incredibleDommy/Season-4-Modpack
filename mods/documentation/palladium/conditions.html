@@ -224,6 +224,14 @@ time_based_condition</a>
 </li>
 </ul>
 <h3>
+afomni</h3>
+<ul>
+<li>
+<a href="#afomni:is_mainhand">
+is_mainhand</a>
+</li>
+</ul>
+<h3>
 Palladium</h3>
 <ul>
 <li>
@@ -541,6 +549,58 @@ wears_suit_set</a>
 <li>
 <a href="#palladium:xor">
 xor</a>
+</li>
+</ul>
+<h3>
+AlienEvo</h3>
+<ul>
+<li>
+<a href="#alienevo:color">
+color</a>
+</li>
+<li>
+<a href="#alienevo:current_alien_nickname">
+current_alien_nickname</a>
+</li>
+<li>
+<a href="#alienevo:has_timeout_bubble">
+has_timeout_bubble</a>
+</li>
+<li>
+<a href="#alienevo:is_alien">
+is_alien</a>
+</li>
+<li>
+<a href="#alienevo:is_crafted">
+is_crafted</a>
+</li>
+<li>
+<a href="#alienevo:on_wall">
+on_wall</a>
+</li>
+<li>
+<a href="#alienevo:quick_change_wheel">
+quick_change_wheel</a>
+</li>
+<li>
+<a href="#alienevo:uniform_type">
+uniform_type</a>
+</li>
+<li>
+<a href="#alienevo:wall_move">
+wall_move</a>
+</li>
+<li>
+<a href="#alienevo:wall_run_down">
+wall_run_down</a>
+</li>
+<li>
+<a href="#alienevo:wall_run_up">
+wall_run_up</a>
+</li>
+<li>
+<a href="#alienevo:watch_type">
+watch_type</a>
 </li>
 </ul>
 </p>
@@ -3063,6 +3123,50 @@ false</td>
 Example:</h3>
 <pre class="json-snippet">
 {"type":"fsang:time_based_condition","start_time":0,"end_time":12000}</pre>
+</div>
+<hr>
+
+<div id="afomni:is_mainhand">
+<h2>
+is_mainhand</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+hand_type</td>
+<td>
+String</td>
+<td>
+Is the main hand the right or left hand? Valid values are "left" or "right"</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+right</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"afomni:is_mainhand","hand_type":"right"}</pre>
 </div>
 <hr>
 
@@ -5951,7 +6055,7 @@ pose</td>
 <td>
 Pose</td>
 <td>
-Determines the pose the entity must be in. Possible values: [standing, fall_flying, sleeping, swimming, spin_attack, crouching, long_jumping, dying, croaking, using_tongue, sitting, roaring, sniffing, emerging, digging]</td>
+Determines the pose the entity must be in. Possible values: [standing, fall_flying, sleeping, swimming, spin_attack, crouching, long_jumping, dying, croaking, using_tongue, sitting, roaring, sniffing, emerging, digging, rolling, vaulting]</td>
 <td style="background-color: lightcoral">
 false</td>
 <td>
@@ -6451,6 +6555,470 @@ false</td>
 Example:</h3>
 <pre class="json-snippet">
 {"type":"palladium:xor","conditions":[]}</pre>
+</div>
+<hr>
+
+<div id="alienevo:color">
+<h2>
+color</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+value</td>
+<td>
+String</td>
+<td>
+Color to check</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+default</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:color","value":"default"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:current_alien_nickname">
+<h2>
+current_alien_nickname</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+value</td>
+<td>
+String</td>
+<td>
+Nickname value</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+default</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:current_alien_nickname","value":"default"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:has_timeout_bubble">
+<h2>
+has_timeout_bubble</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+value</td>
+<td>
+Boolean</td>
+<td>
+Whether entity has timeout bubble enabled</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+false</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:has_timeout_bubble","value":false}</pre>
+</div>
+<hr>
+
+<div id="alienevo:is_alien">
+<h2>
+is_alien</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:is_alien"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:is_crafted">
+<h2>
+is_crafted</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+craft_type</td>
+<td>
+String</td>
+<td>
+Persistent data used</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+default</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:is_crafted","craft_type":"default"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:on_wall">
+<h2>
+on_wall</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+data_name</td>
+<td>
+String</td>
+<td>
+Persistent data used</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+climb</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:on_wall","data_name":"climb"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:quick_change_wheel">
+<h2>
+quick_change_wheel</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:quick_change_wheel"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:uniform_type">
+<h2>
+uniform_type</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+value</td>
+<td>
+String</td>
+<td>
+Uniform variant to check</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+default</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:uniform_type","value":"default"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:wall_move">
+<h2>
+wall_move</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+data_name</td>
+<td>
+String</td>
+<td>
+Persistent data used</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+climb</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:wall_move","data_name":"climb"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:wall_run_down">
+<h2>
+wall_run_down</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+data_name</td>
+<td>
+String</td>
+<td>
+Persistent data used</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+wall_run</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:wall_run_down","data_name":"wall_run"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:wall_run_up">
+<h2>
+wall_run_up</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+data_name</td>
+<td>
+String</td>
+<td>
+Persistent data used</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+wall_run</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:wall_run_up","data_name":"wall_run"}</pre>
+</div>
+<hr>
+
+<div id="alienevo:watch_type">
+<h2>
+watch_type</h2>
+<p>
+Applicable for: all</p>
+<h3>
+Settings:</h3>
+<table>
+<thead>
+<tr>
+<th>
+Setting</th>
+<th>
+Type</th>
+<th>
+Description</th>
+<th>
+Required</th>
+<th>
+Fallback Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+value</td>
+<td>
+String</td>
+<td>
+Color to check</td>
+<td style="background-color: lightcoral">
+false</td>
+<td>
+default</td>
+</tr>
+</tbody>
+</table>
+<h3>
+Example:</h3>
+<pre class="json-snippet">
+{"type":"alienevo:watch_type","value":"default"}</pre>
 </div>
 <script>
 function syntaxHighlight(json) {

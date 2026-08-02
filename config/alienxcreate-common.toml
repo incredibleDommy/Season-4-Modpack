@@ -1,0 +1,5 @@
+
+[recipes]
+	#When true, vanilla crafting-table recipes whose output is also produced by an Alien X Create (Create) recipe are disabled, forcing those items to be crafted through Create.
+	create_only = false
+
