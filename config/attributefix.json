@@ -748,17 +748,6 @@
         "value": 100
       }
     },
-    "hordes:infection_resistance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "tconstruct:player.critical_damage": {
       "enabled": false,
       "min": {
@@ -768,6 +757,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "hordes:infection_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:generic.max_health": {
@@ -891,17 +891,6 @@
         "value": 1
       }
     },
-    "hordes:infectivity": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "cataclysm:nature_heal": {
       "enabled": false,
       "min": {
@@ -911,6 +900,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "hordes:infectivity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "attributeslib:life_steal": {

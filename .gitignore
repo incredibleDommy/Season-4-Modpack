@@ -30,3 +30,7 @@ local/
 .DS_Store
 Thumbs.db
 config/voicechat/username-cache.json
+/xaero
+minecraftinstance.json
+config/packetfixer.properties
+/mods/documentation
